@@ -31,6 +31,21 @@ Beyond Consultants builds multiple secure pathways for technology adoption — c
 - **Secure communications**
 - **CMMC 2.0, vCISO, and OIG readiness support**
 
+## Our Labs
+
+Proof of work. Not just promises.
+
+| Lab | Focus | Status |
+|-----|-------|--------|
+| [SENTINEL AI Operations](https://github.com/bconsultmd/sentinel-ai-operations) | AI-powered government operations | Active |
+| [Beyond Consultants AI Crew](https://github.com/bconsultmd/beyond-consultants-ai-crew) | 7-agent GovTech operations system | Active |
+| [GROUNDWORK Real Estate AI](https://github.com/bconsultmd/groundwork-real-estate-ai) | Community development platform | Active |
+| [CI² Community Infrastructure](https://github.com/bconsultmd/ci-squared-community-infrastructure) | Technology for underserved communities | Active |
+| [Automated Security Compliance](https://github.com/bconsultmd/automated-security-compliance) | NIST 800-53 operations framework | Active |
+| [Secure Contact Center](https://github.com/bconsultmd/secure-contact-center-modernization) | Government and healthcare communications | Active |
+| [Neighborhood Capital AI](https://github.com/bconsultmd/neighborhood-capital-ai-platform) | Real estate intelligence platform | Active |
+| [GovTech Mission Control](https://github.com/bconsultmd/govtech-mission-control-template) | Open source operations dashboard | Active |
+
 ## Who We Serve
 
 We serve government agencies, healthcare facilities, commercial organizations, GovTech partners, and the communities that depend on them.
@@ -45,5 +60,5 @@ Our role is to make public-service technology safer, clearer, and more dependabl
 
 ## Work With Us
 
-Visit the website: **https://beyondconsultantsinfo.github.io**  
+Visit the website: **https://bconsultmd.github.io**  
 Email: **bcroley@beyond-consultants.com**
