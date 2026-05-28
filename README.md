@@ -40,10 +40,10 @@ Proof of work. Not just promises.
 | [SENTINEL AI Operations](https://github.com/bconsultmd/sentinel-ai-operations) | AI-powered government operations | Active |
 | [Beyond Consultants AI Crew](https://github.com/bconsultmd/beyond-consultants-ai-crew) | 7-agent GovTech operations system | Active |
 | [GROUNDWORK Real Estate AI](https://github.com/bconsultmd/groundwork-real-estate-ai) | Community development platform | Active |
-| [CI² Community Infrastructure](https://github.com/bconsultmd/ci-squared-community-infrastructure) | Technology for underserved communities | Active |
+| [Community development and infrastructure projects Community Infrastructure](https://github.com/bconsultmd/ci-squared-community-infrastructure) | Technology for underserved communities | Active |
 | [Automated Security Compliance](https://github.com/bconsultmd/automated-security-compliance) | NIST 800-53 operations framework | Active |
 | [Secure Contact Center](https://github.com/bconsultmd/secure-contact-center-modernization) | Government and healthcare communications | Active |
-| [Neighborhood Capital AI](https://github.com/bconsultmd/neighborhood-capital-ai-platform) | Real estate intelligence platform | Active |
+| [Community development and infrastructure projects AI](https://github.com/bconsultmd/neighborhood-capital-ai-platform) | Real estate intelligence platform | Active |
 | [GovTech Mission Control](https://github.com/bconsultmd/govtech-mission-control-template) | Open source operations dashboard | Active |
 
 ## Who We Serve
@@ -54,9 +54,7 @@ That means we care about more than technical delivery. We care about whether a r
 
 ## Community Mission
 
-Beyond Consultants is part of a broader community-building ecosystem connected to **Neighborhood Capital** and the emerging **CI²** vision: technology, housing, capital, and civic infrastructure working together to strengthen underserved communities.
-
-Our role is to make public-service technology safer, clearer, and more dependable — because digital infrastructure is community infrastructure.
+Beyond Consultants is part of a broader community-building ecosystem connecting technology, housing, capital, and civic infrastructure to strengthen underserved communities across Maryland and beyond.
 
 ## Work With Us
 
